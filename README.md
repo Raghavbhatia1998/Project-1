@@ -136,7 +136,7 @@ limit 10;
 
 Here's the breakdown of the most demanded skills for data analysts in 2023:
 
-Data Skill Demand Analysis (2025)
+Data Skill Demand Analysis
 - **SQL Leads the Pack** :
 SQL dominates the market with over 3,100 job listings, reinforcing its position as a foundational skill in data analysis, data engineering, and business intelligence roles.
 
