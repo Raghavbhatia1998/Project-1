@@ -17,4 +17,4 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 where job_title_short='Data Analyst' and job_country='India'
 group by skills
 ORDER BY demand_count DESC
-limit 10
+limit 10;
