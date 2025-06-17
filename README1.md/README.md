@@ -64,7 +64,7 @@ High-paying data roles appear across diverse sectors—finance (Deutsche Bank), 
 - **Salary Range and Averages** :
 The average salary across roles is $91,553 USD, with a range from $64,800 to $119,250 USD, indicating strong opportunities for both beginners and advanced professionals in India’s data job market.
 
-![Top Paying Roles](assets\top_paying_jobs.png)
+![Top Paying Roles](top_paying_jobs.png)
 
 *Bar graph visualizing the salary for the top 10 salaries for data analysts in India; ChatGPT generated this graph from my SQL query results.
 
@@ -145,7 +145,9 @@ Python is valued for its scalability and integration with data pipelines, while 
 Tableau and Power BI show solid demand among BI and visualization tools, highlighting the need for clear data storytelling.
 Meanwhile, R and SAS continue to be relevant in statistics-heavy domains such as healthcare, academia, and research-oriented analytics.
 
-![TOP Demanded Skills](image.png)
+![TOP Demanded Skills](Assets\top_paying_jobs.png)
+
+ 
 
 ### 4. Top Optimal Skills
 Combining insights from demand and salary data, this query aimed to pinpoint skills that are both in high demand and have high salaries, offering a strategic focus for skill development.
