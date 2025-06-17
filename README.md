@@ -150,7 +150,6 @@ Meanwhile, R and SAS continue to be relevant in statistics-heavy domains such as
 ![TOP Demanded Skills](Assets\TOP_DEMANED_SKILLS.png)
 
 
- 
 
 ### 4. Top Optimal Skills
 Combining insights from demand and salary data, this query aimed to pinpoint skills that are both in high demand and have high salaries, offering a strategic focus for skill development.
