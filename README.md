@@ -66,6 +66,8 @@ The average salary across roles is $91,553 USD, with a range from $64,800 to $11
 
 ![Top Paying Jobs](Assets\top_paying_jobs.png)
 
+
+
 *Bar graph visualizing the salary for the top 10 salaries for data analysts in India; ChatGPT generated this graph from my SQL query results.
 
 ### 2. Top Paying Skills 
@@ -146,6 +148,7 @@ Tableau and Power BI show solid demand among BI and visualization tools, highlig
 Meanwhile, R and SAS continue to be relevant in statistics-heavy domains such as healthcare, academia, and research-oriented analytics.
 
 ![TOP Demanded Skills](Assets\TOP_DEMANED_SKILLS.png)
+
 
  
 
